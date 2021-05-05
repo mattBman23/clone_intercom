@@ -1,0 +1,33 @@
+{
+  "name": "clone_intercom",
+  "version": "1.0.0",
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattBman23/clone_intercom.git"
+  },
+  "keywords": [],
+  "author": "Matthew Budiman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattBman23/clone_intercom/issues"
+  },
+  "homepage": "https://github.com/mattBman23/clone_intercom#readme",
+  "dependencies": {
+    "@heroicons/react": "^1.0.1",
+    "next": "^10.2.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.13",
+    "tailwindcss": "^2.1.2"
+  }
+}
